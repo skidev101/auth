@@ -1,12 +1,1 @@
-[
-  {
-    "id": 1,
-    "firstname": "ski",
-    "lastname": "dev"
-  },
-  {
-    "id": 2,
-    "firstname": "Anna",
-    "lastname": "Doe"
-  }
-]
+[{"username":"ski103","password":"$2a$10$jStyVgBRBndOGwv3fCYZjOC40i0E0rvj980Sp8MJ17RS/aGzZ7Yzu","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNraTEwMyIsImlhdCI6MTczNjUwODAyOSwiZXhwIjoxNzM2NTk0NDI5fQ.-qMBFoE_gKBMjgF4imeJp6oZqko_5x3UkTcKcd_1nQI"},{"username":"ski104","password":"$2a$10$ePgtOTpcYgZ3jG1hLNisuOpHFyosjqaz2L1ISfE35kNzF5GuW4jbi","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNraTEwNCIsImlhdCI6MTczNjYxMTIzOSwiZXhwIjoxNzM2Njk3NjM5fQ.Kgeqp01JwTd14FLr03gSR8QJANCcTOdDAM1xO02_8dE"},{"username":"ski102","password":"$2a$10$rbVRVfOTsY2TyEL5qk8WHufJ53YkjemjdKanpP5te6sVpbREgmdVm","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNraTEwMiIsImlhdCI6MTczNjcxNjQ5NywiZXhwIjoxNzM2ODAyODk3fQ.Te-90PESYProAtdRGrMfZhrvHm2benWbVPaB6X9d3po"},{"username":"ski101","password":"$2a$10$.yJUbJXFP7XKHtoqE..9feu3GCbpDzw9dUzc0o8UxKiIte26V64He","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNraTEwMSIsImlhdCI6MTczNjgwODgxMiwiZXhwIjoxNzM2ODk1MjEyfQ.5w1H86jil1QhZz3BC51yMc6sDs6eFDnOZtPP6BGmfW8"},{"username":"1","password":"$2a$10$zSlM6Rw8lvo1hzZ5LoyTk.8RyftEnCTyycnTme4YrM1nT.fmsTzQm"},{"username":"2","password":"$2a$10$uY8X.4Dp0yW3bwHJlKpwveUQuVgeeKHrPeE75mYtzX5T1x2QfnzDa"}]
